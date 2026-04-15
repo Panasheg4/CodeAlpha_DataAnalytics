@@ -1,0 +1,28 @@
+The 5 Questions Framework:
+Every time you get a new dataset ask:
+1. What IS this data?
+
+How many rows/columns?
+What does each column mean?
+
+2. Is it CLEAN?
+
+Missing values?
+Duplicates?
+Wrong data types?
+
+3. What's NORMAL?
+
+What's the average?
+What's typical behaviour?
+
+4. What's UNUSUAL?
+
+Outliers?
+Missing years?
+Sudden jumps?
+
+5. What RELATIONSHIPS exist?
+
+Does X affect Y?
+Correlations?
